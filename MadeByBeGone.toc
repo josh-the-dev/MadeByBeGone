@@ -1,0 +1,7 @@
+## Interface: 110005
+## Version: 1.0.0
+## Title: MadeByBeGone
+## Notes: Gets rid of made by text on crafted items
+## Author: Amrux
+
+MadeByBeGone.lua
