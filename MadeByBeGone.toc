@@ -1,4 +1,4 @@
-## Interface: 110005
+## Interface: 120001
 ## Version: 1.0.0
 ## Title: MadeByBeGone
 ## Notes: Gets rid of made by text on crafted items
